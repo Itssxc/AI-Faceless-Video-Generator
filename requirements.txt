@@ -1,0 +1,6 @@
+flask
+TTS
+moviepy
+opencv-python
+torch
+torchaudio
